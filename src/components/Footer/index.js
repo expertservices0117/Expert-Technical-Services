@@ -7,7 +7,7 @@ import "./index.css";
 
 const Footer = () => {
   return (
-    <div className="footer-card" id = "footer">
+    <div className="footer-card" id ="footer">
       <div className="container">
         <h2 className="footer-heading d-flex justify-content-center">
           CONTACT US 24/7
@@ -60,6 +60,7 @@ const Footer = () => {
                         style={{border: "2px"}}
                         allowfullscreen=""
                         loading="lazy"
+                        title="map"
                         referrerpolicy="no-referrer-when-downgrade"
                     ></iframe>
                 </div>
