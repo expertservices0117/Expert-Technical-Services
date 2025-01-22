@@ -1,0 +1,24 @@
+.modal-popup{
+    width: 300px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.share-btn{
+    background-color: rgb(43,108,163);
+    border: 2px solid rgb(43,108,163) ;
+    color: #fff;
+    font-weight: 500;
+    width: 250px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+.share-btn:hover{
+    background-color: transparent;
+    color: #000;
+}

@@ -1,0 +1,149 @@
+.services-card{
+    background-color: rgb(43,108,163);
+    color: #fff;
+    padding: 70px 0px;
+}
+.services-heading{
+    letter-spacing: 2px;
+    font-size: 35px;
+    font-weight: 500;
+}
+/* .zoom-img{
+  transition: all 0.2s ease;
+}
+.zoom-img:hover{
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+
+} */
+a:focus {
+  outline: none;
+}
+.zoom-img {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .zoom-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    transition: all .5s ease;
+  }
+  
+  .zoom-img img:hover {
+    transform: scale(1.2);
+  }
+@media screen  and (max-width:768px){
+    .services-heading{
+        font-size: 25px;
+    }
+}
+
+
+.popup-content{
+  background-color: transparent !important;
+  width: auto;
+  border: none;
+}
+.modal-container{
+  padding: 15px !important;
+  background-color: #fff;
+  border-radius: 8px ;
+  min-width: 350px;
+  max-width: 500px;
+  overflow-y: auto;
+  max-height: 80vh;
+}
+
+.modal-content{
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow-y: scr;
+}
+
+/* Style the scrollbar */
+.modal-container::-webkit-scrollbar {
+  width: 5px; /* Width of the scrollbar */
+}
+
+/* Style the scrollbar track */
+.modal-container::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Track color */
+  border-radius: 10px;
+}
+
+/* Style the scrollbar thumb (the draggable part) */
+.modal-container::-webkit-scrollbar-thumb {
+  background-color: #888; /* Thumb color */
+  border-radius: 10px;
+  border: 2px solid #f1f1f1; /* Optional border around thumb */
+}
+
+/* Hover effect on the scrollbar thumb */
+.modal-container::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Darker thumb color on hover */
+}
+/* animation */
+
+@keyframes anvil {
+  0% {
+    transform: scale(1) translateY(0px);
+    opacity: 0;
+    box-shadow: 0 0 0 rgba(241, 241, 241, 0);
+  }
+  1% {
+    transform: scale(0.96) translateY(10px);
+    opacity: 0;
+    box-shadow: 0 0 0 rgba(241, 241, 241, 0);
+  }
+  100% {
+    transform: scale(1) translateY(0px);
+    opacity: 1;
+    box-shadow: 0 0 500px rgba(241, 241, 241, 0);
+  }
+}
+.popup-content {
+  -webkit-animation: anvil 0.3s cubic-bezier(0.38, 0.1, 0.36, 0.9) forwards;
+}
+.service-img{
+  border-radius: 50%;
+}
+.service-name{
+  max-width: 120px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0px;
+
+}
+
+.view-more-btn{
+  border: none;
+  border-bottom: 3px solid rgb(255,222,17);
+  background-color: transparent;
+  font-weight: 500;
+  color: #fff;
+  outline: none;
+  text-transform: none;
+  align-self: center;
+  font-size: 18px;
+  padding: 5px;
+  cursor: pointer;
+  align-self: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  transition: background-color 0.3s ease, color 0.3s ease, border-radius 0.3s ease;
+}
+
+.view-more-btn:hover {
+  background-color: rgb(255,222,17);
+  color: rgb(43,108,163);
+  border-radius: 5px;
+}

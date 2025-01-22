@@ -1,0 +1,27 @@
+.nav-bg{
+    /* background-color: rgb(255,222,17); */
+}
+.number:hover{
+    transition: all  0.3s;
+    transform: scale(1.1);
+}
+.nav-item{
+    font-size: 15px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+.nav-item:hover{
+    color:#495057;
+}
+.logo-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.nav-logo-text{
+    font-size: 15px;
+    font-weight: 500
+}

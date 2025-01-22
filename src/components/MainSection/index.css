@@ -1,0 +1,40 @@
+.main-bg-img{
+    background-image: url("../../../public/hm-bg.avif");
+    height: 70vh;
+    background-size: cover;
+}
+.main-heading{
+    color: #fff;
+    line-height: 1.5em;
+    font-size: 44px;
+    font-weight: 400;
+}
+.appointment-btn{
+    background-color: rgb(43,108,163);
+    color:  rgb(255,222,17);
+    font-size: 18px;
+    border: 1px solid transparent;
+    padding: 10px 30px;
+    transition: all 0.5s ease;
+    border-radius: 2px;
+}
+
+.appointment-btn:hover{
+    background-color: rgb(255,222,17);
+    color: rgb(43,108,163);
+}
+
+@media screen and (max-width:768px)
+{
+    .main-bg-img{
+        height: 90vh;
+        background-position: center;
+    }
+    .appointment-btn{
+        font-size: 20px;
+    }
+    .main-heading{
+        font-size: 30px;
+        line-height: 2em;
+    }
+}

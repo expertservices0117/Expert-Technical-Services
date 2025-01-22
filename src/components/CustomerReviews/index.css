@@ -1,0 +1,34 @@
+.happy-cus-heading{
+    color: rgb(43,108,163);
+    font-size:40px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 60px;
+}
+.review-card{
+    position: relative;
+}
+.svg-text{
+    position: absolute;
+    top: -12px;
+    left: -40px;
+}
+
+.content-flex{
+    justify-content: start;
+}
+.customer-name{
+    color: rgb(43, 108, 163);
+    font-size: 12px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:768px)
+{
+    .happy-cus-heading{
+        font-size: 25px;
+    }
+    .content-flex{
+        justify-content: end;
+    }
+}

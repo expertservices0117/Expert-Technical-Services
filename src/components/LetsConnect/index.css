@@ -1,0 +1,23 @@
+.let-connect-bg{
+    height: 500px;
+    background-color: rgb(43,108,163);
+}
+.lets-connect-btn{
+    font-size: 20px;
+    font-weight: 500;
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px 30px;
+    transition: all 0.5s ease;
+}
+
+.lets-connect-btn:hover{
+    background-color: transparent;
+    color: #fff;
+}
+.lets-connect-text{
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 18px;
+}

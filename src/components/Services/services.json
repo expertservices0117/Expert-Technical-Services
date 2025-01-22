@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Electrical Works",
+    "services": [
+      {
+        "name": "House Wiring",
+        "imgUrl": "/house-wiring.webp"
+      },
+      {
+        "name": "Ground Earthing",
+        "imgUrl": "/ground-earthing.jpg"
+      },
+      {
+        "name": "Motor Winding",
+        "imgUrl": "/motor-winding.avif"
+      },
+      {
+        "name": "Panel Boards",
+        "imgUrl": "/panel-boarding.jpg"
+      },
+      {
+        "name": "IFSC Panel Boards",
+        "imgUrl": "/IFSCPanelBoards.png"
+      },
+      {
+        "name": "Inverter Setup",
+        "imgUrl": "/inverter-installation-service.jpeg"
+      }
+    ],
+    "imgUrl": "/electrical-works.jpg"
+  },
+  {
+    "name": "CNC Work",
+    "services": [
+      {
+        "name": "Lightning Boards",
+        "imgUrl": "/lightning-boards.avif"
+      },
+      {
+        "name": "MDF Cutting",
+        "imgUrl": "/mdf-cutting.jpeg"
+      },
+      {
+        "name": "Wooden Doors Design",
+        "imgUrl": "/wooden-doors-design.jpg"
+      },
+      {
+        "name": "Glass Designs",
+        "imgUrl": "/glass-designs.webp"
+      },
+      {
+        "name": "ACP / PVC / Acrylic Letters",
+        "imgUrl": "/acp-pvc-acrylic-letters.jpg"
+      },
+      {
+        "name": "CNC Cutting Work",
+        "imgUrl": "/cnc-cutting-work.avif"
+      },
+      {
+        "name": "Sheet Cutting Service",
+        "imgUrl": "/sheet-cutting-service.jpg"
+      },
+      {
+        "name": "CNC Mess Designs",
+        "imgUrl": "/cnc-mess-designs.webp"
+      },
+      {
+        "name": "Interior & Exterior CNC Works",
+        "imgUrl": "/interior-exterior-cnc-works.webp"
+      },
+      {
+        "name": "Granite Letters",
+        "imgUrl": "/granite-letters.webp"
+      }
+    ],
+    "imgUrl": "/cnc-works.jpeg"
+  },
+  {
+    "name": "Plumbing",
+    "services": [
+      {
+        "name": "All types of pipe lines PVC & UPVC",
+        "imgUrl": "/plumbing.jpg"
+      },
+      {
+        "name": "Indian & Western Comboards",
+        "imgUrl": "/plumbing.jpg"
+      },
+      {
+        "name": "Wall mixtures & Diverters Installation",
+        "imgUrl": "/plumbing.jpg"
+      },
+      {
+        "name": "Water Motor Installation & Service",
+        "imgUrl": "/water-motor-installation-service.jpg"
+      }
+    ],
+    "imgUrl": "/plumbing.jpg"
+  },
+  {
+    "name": "CC Cameras",
+    "services": [
+      {
+        "name": "All types cameras Installation & Service",
+        "imgUrl": "/cc-cameras.avif"
+      }
+    ],
+    "imgUrl": "/cc-cameras.avif"
+  },
+  {
+    "name": "Water Purifier & R.O",
+    "services": [
+      {
+        "name": "Soil Testing",
+        "imgUrl": "/soil-testing.jpg"
+      },
+      {
+        "name": "All types of water purifier Sales & Service",
+        "imgUrl": "/water-purifier.jpeg"
+      },
+      {
+        "name": "RO Plants for mineral water",
+        "imgUrl": "/ro-plants-for-mineral-water.jpg"
+      },
+      {
+        "name": "Water Softener Service",
+        "imgUrl": "/water-softener-service.webp"
+      }
+    ],
+    "imgUrl": "/water-purifier.jpeg"
+  },
+  {
+    "name": "Carpenter",
+    "services": [
+      {
+        "name": "Interior Designs",
+        "imgUrl": "/interior-designs.webp"
+      },
+      {
+        "name": "Cup boards",
+        "imgUrl": "/cup-boards.jpg"
+      },
+      {
+        "name": "All types of Cabinets",
+        "imgUrl": "/all-types-of-cabinets.jpg"
+      },
+      {
+        "name": "Doors & Windows",
+        "imgUrl": "/doors-windows.jpg"
+      },
+      {
+        "name": "Wood & Acrylic designs",
+        "imgUrl": "/wood-acrylic-designs.jpg"
+      },
+      {
+        "name": "Mosquito nets",
+        "imgUrl": "/mosquito-nets.jpg"
+      },
+      {
+        "name": "Foldable & Netted doors",
+        "imgUrl": "/foldable-netted-doors.jpg"
+      }
+    ],
+    "imgUrl": "/carpenter.jpg"
+  },
+  {
+    "name": "Air Conditioning",
+    "services": [
+      {
+        "name": "Installation & Services for all AC’s",
+        "imgUrl": "/air-conditioning.webp"
+      },
+      {
+        "name": "Gas refilling for suitable companies",
+        "imgUrl": "/gas-refilling-for-suitable-companies.jpeg"
+      },
+      {
+        "name": "Vacuum & Chemical services",
+        "imgUrl": "/air-conditioning.webp"
+      }
+    ],
+    "imgUrl": "/air-conditioning.webp"
+  },
+  {
+    "name": "Aluminum Works",
+    "services": [
+      {
+        "name": "Doors",
+        "imgUrl": "/doors.avif"
+      },
+      {
+        "name": "Windows",
+        "imgUrl": "/windows.jpg"
+      },
+      {
+        "name": "Partition doors",
+        "imgUrl": "/partition-doors.avif"
+      }
+    ],
+    "imgUrl": "/aluminum-works.jpg"
+  },
+  {
+    "name": "Welding",
+    "services": [
+      {
+        "name": "All types of Iron works",
+        "imgUrl": "/welding.jpg"
+      },
+      {
+        "name": "All Types of Steel Works",
+        "imgUrl": "/all-types-of-steel-works.webp"
+      }
+    ],
+    "imgUrl": "/welding.jpg"
+  },
+  {
+    "name": "Tiles & Granite Work",
+    "services": [
+      {
+        "name": "Granite Door & Window Frames",
+        "imgUrl": "/tiles-granite-work.webp"
+      },
+      {
+        "name": "Granite Flooring",
+        "imgUrl": "/tiles-granite-work.webp"
+      },
+      {
+        "name": "Marbles Flooring",
+        "imgUrl": "/tiles-granite-work.webp"
+      }
+    ],
+    "imgUrl": "/tiles-granite-work.webp"
+  },
+  {
+    "name": "Mason Work",
+    "services": [
+      {
+        "name": "Building Construction",
+        "imgUrl": "/mason-work.jpg"
+      },
+      {
+        "name": "Service",
+        "imgUrl": "/mason-work.jpg"
+      }
+    ],
+    "imgUrl": "/mason-work.jpg"
+  },
+  {
+    "name": "Painting Works",
+    "services": [
+      {
+        "name": "All type of Painting works",
+        "imgUrl": "/painting-works.jpg"
+      },
+      {
+        "name": "Texture patterns",
+        "imgUrl": "/painting-works.jpg"
+      }
+    ],
+    "imgUrl": "/painting-works.jpg"
+  },
+  {
+    "name": "Pest Control",
+    "services": [
+      {
+        "name": "Chemical and Organic Sprays",
+        "imgUrl": "/pest-control.png"
+      },
+      {
+        "name": "Fumigation",
+        "imgUrl": "/pest-control.png"
+      },
+      {
+        "name": "Traps",
+        "imgUrl": "/pest-control.png"
+      }
+    ],
+    "imgUrl": "/pest-control.png"
+  },
+  {
+    "name": "Bore well Services",
+    "services": [
+      {
+        "name": "New boars & Services",
+        "imgUrl": "/bore-well-services.avif"
+      }
+    ],
+    "imgUrl": "/bore-well-services.avif"
+  },
+  {
+    "name": "Real Estate",
+    "services": [
+      {
+        "name": "Lease",
+        "imgUrl": "/real-estate.jpg"
+      },
+      {
+        "name": "Sales",
+        "imgUrl": "/real-estate.jpg"
+      }
+    ],
+    "imgUrl": "/real-estate.jpg"
+  }
+]

@@ -1,0 +1,27 @@
+.who-we-are-bg{
+    background-image: url("../../../public/who-we-are-bg.avif");
+    height: 450px;
+    background-attachment: fixed;
+}
+.overlay{
+    background-color: rgb(0, 0, 0, 0.5);
+    height: 100%;
+}
+.who-we-are-title{
+    color: rgb(255,222,17);
+    font-size: 35px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+@media screen and (max-width:768px) {
+    .who-we-are-title{
+        font-size: 25px;
+    }
+}
+.who-we-are-description{
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
