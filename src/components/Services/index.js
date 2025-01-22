@@ -1,10 +1,8 @@
-import React, { useState } from 'react'
 import "./index.css"
 import services from "./services.json"
 import { IoClose } from "react-icons/io5";
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css'; 
-import SharePopup from "../SharePopup"
 
 
 
