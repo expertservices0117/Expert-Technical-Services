@@ -23,9 +23,9 @@ function BasicExample() {
               </Nav>
             </Navbar.Collapse>
             <div className='d-none d-lg-flex align-items-center gap-3'>
-                <a href="tel:+18075754545" className='number'>
+                <a href="tel:6281355853" className='number'>
                     <button className="btn btn-dark">
-                        8075754545
+                      6281355853
                     </button>
                 </a>
                 <img src='/24-hours-support.png' className='animate__animated animate__swing animate__infinite' style={{ animationDuration: '2s', animationDelay: '1s' }}  alt='24/7' height={40} />

@@ -30,7 +30,7 @@ const Footer = () => {
             <div className="details-card white">
               <p className="details-head">AREAS COVERED</p>
               <p className="d-md-flex justify-content-center details-desc">
-                ongolle
+                Nellore
               </p>
             </div>
             <div className="details-card white">

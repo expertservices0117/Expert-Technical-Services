@@ -23,7 +23,7 @@ const SharePopup = ({ element,text }) => {
                         />
                     </div>
                     <div className="modal-content">
-                        <h5 className='fw-bold text-center'>{text}</h5>
+                        <h5 className='fw-bold text-center'>{text || "Contact us"}</h5>
                         <div className='py-4 d-flex flex-column align-items-center gap-3'>
 
                             {/* Phone Link */}
@@ -36,7 +36,7 @@ const SharePopup = ({ element,text }) => {
                             </a>
 
                             <a
-                                href={`https://wa.me/${"6281355853"}?text=${encodeURIComponent('Hello, I am interested in your service!')}`}
+                                href={`https://wa.me/${"8074245686"}?text=${encodeURIComponent('Hello, I am interested in your service!')}`}
                                 target="_blank" 
                                 rel="noopener noreferrer"  
                                 className='text-decoration-none'
