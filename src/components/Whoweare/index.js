@@ -11,7 +11,7 @@ const Whoweare = () => {
                     <div className='row d-flex justify-content-center'>
                         <div className='col-md-6'>
                             <p className='who-we-are-description'>
-                                At Expert Professional Services, we are a trusted partner in the construction industry, offering specialized technical services designed to elevate the quality, efficiency, and safety of construction projects. With years of experience and a deep understanding of the unique
+                                At Expert Technical Services, we are a trusted partner in the construction industry, offering specialized technical services designed to elevate the quality, efficiency, and safety of construction projects. With years of experience and a deep understanding of the unique
                                 challenges in construction, we provide innovative, reliable, and sustainable solutions that help 
                                 our clients achieve successful project outcomes on time and within budget.
                             </p>

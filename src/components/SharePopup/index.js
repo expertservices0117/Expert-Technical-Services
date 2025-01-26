@@ -36,7 +36,7 @@ const SharePopup = ({ element,text }) => {
                             </a>
 
                             <a
-                                href={`https://wa.me/${"8074245686"}?text=${encodeURIComponent('Hello, I am interested in your service!')}`}
+                                href={`https://wa.me/${"916281355853"}?text=${encodeURIComponent('Hello, I am interested in your service!')}`}
                                 target="_blank" 
                                 rel="noopener noreferrer"  
                                 className='text-decoration-none'
